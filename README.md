@@ -4,7 +4,7 @@
 
 ### Education
 
-University of Texas at Austin, PhD
+
 
 ### Work Experience
 
