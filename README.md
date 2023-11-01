@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# Bioinformatics
+
+### Education
+
+University of Texas at Austin, PhD
+
+### Work Experience
+
+
 <!--
 **KwangwooKo/KwangwooKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
